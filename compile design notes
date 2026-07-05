@@ -1,0 +1,12 @@
+INTERMEDIATE
+CODE GENERATION: intermediate forms of source programs– abstract
+syntax tree, polish notation and three address code, types of three address
+statements and its implementation, syntax directed translation into
+threeaddress code, translation of simple statements, Boolean expressions
+and flow-of-control statements. CODE OPTIMIZATION: Organization of
+code optimizer, basic blocks and flow graphs, optimization of basic blocks,
+the principal sources of optimization, the directed acyclic graph (DAG)
+representation of basic block, global data flow analysis. CODE
+GENERATION: Machine dependent code generation, object code forms,
+the target machine, a simple code generator, register allocation and
+assignment, peephole optimization.
